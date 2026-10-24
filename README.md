@@ -24,6 +24,8 @@ MCP server for controlling Philips Hue smart lights.
 
 ### For Other MCP Clients (e.g., Cursor)
 
+Requires Node.js **22.23.4+** or **24.22.1+** (older lines are end-of-life and do not receive security fixes).
+
 1. **Clone repository and install dependencies:**
 
 ```bash
